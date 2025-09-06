@@ -2,19 +2,20 @@
 
 ## 1. What is 2 + 2?
 
-5
+4
 
 ## 2. What is JavaScript?
 
-An exciting new play about coffee.
+It is a coding anguage using for web developing.
 
 ## 3. What three problems does Git & GitHub solve?
-
-When people want to show off code to each other they can put it on GitHub
+code history managment
+version control
+team working on the same project
 
 ## 4. What happens when you `fork` a repository?
 
-You delete it
+a new version of code will be created under our acount and we ca edit it 
 
 ## 5. What happens when you clone a repository?
 
