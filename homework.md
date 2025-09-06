@@ -6,21 +6,24 @@
 
 ## 2. What is JavaScript?
 
-It is a coding anguage using for web developing.
+It is a coding language using for web developing.
 
 ## 3. What three problems does Git & GitHub solve?
-code history managment
-version control
-team working on the same project
+Version Control: Git solves the problem of tracking and managing changes to a codebase over time, allowing developers to revert to previous states and understand the history of their project.
+
+Collaboration: Git and GitHub enable multiple developers to work on the same project simultaneously without overwriting each other's work by providing a structured way to share, merge, and review code.
+
+Backup and Accessibility: GitHub serves as a remote backup, protecting your code from data loss and making it easily accessible to a distributed team from anywhere in the world.
+
 
 ## 4. What happens when you `fork` a repository?
 
-a new version of code will be created under our acount and we ca edit it 
+a new version of code will be created under our acount and we ca edit it independently
 
 ## 5. What happens when you clone a repository?
 
-It send it to a friend
+We can downld it it locally in our laptop and work on it locally
 
 ## 6. What is a Pull Request?
 
-When you send a file over the internet
+when we request the main coder the review our commit and accept it.
