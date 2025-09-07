@@ -18,12 +18,12 @@ Backup and Accessibility: GitHub serves as a remote backup, protecting your code
 
 ## 4. What happens when you `fork` a repository?
 
-a new version of code will be created under our acount and we ca edit it independently
+a new version of code will be created under our acount and we can edit it independently
 
 ## 5. What happens when you clone a repository?
 
-We can downld it it locally in our laptop and work on it locally
+We can download  on  our laptop and work on it locally
 
 ## 6. What is a Pull Request?
 
-when we request the main coder the review our commit and accept it.
+when we pull request, the main coder the review our commit and accept it.
